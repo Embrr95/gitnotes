@@ -12,6 +12,9 @@ git merge <branchname>
 git log
 git diff
 git reset --hard <optional id>
+git tag -a 'semver' -m '<msg>'
+git tag
+git reflog
 ```
 
 
