@@ -17,6 +17,6 @@ git reset --hard <optional id>
 
 >other notes
 
-```
+```bash
 clear
 ```
