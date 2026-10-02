@@ -17,6 +17,7 @@ git tag								# list all tags
 git reflog							# last 15 git actions
 git remote add <origin> <url>		# one time connect to github
 git push origin <branch>			# sync local to remote
+git push --tags						# sync local tags to github
 git pull origin <branch>			# sync remote to local (merge)
 ```
 
